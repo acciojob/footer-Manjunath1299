@@ -33,4 +33,6 @@
 .link-boxes a{
 	text-decoration:none;
      color:white;
+	text-align:center;
+	font-weight:lighter;
 }
