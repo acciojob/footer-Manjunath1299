@@ -6,9 +6,14 @@
 .media-icons{
 	list-style-type:none;
 	display:flex;
+	
 	border-radius:5px
 }
 .media-icons a{
 	text-decoration:none;
 	margin:3px;
+}
+.logo_name{
+	font-size:30px;
+	font-weight:bolder;
 }
