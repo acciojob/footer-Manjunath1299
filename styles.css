@@ -20,4 +20,14 @@
 .logo_name{
 	font-size:30px;
 	font-weight:bolder;
+	
+}
+
+/*Links  */
+.link-boxes{
+	color:white
+}
+.link-boxes a{
+	text-decoration:none;
+     color:white;
 }
