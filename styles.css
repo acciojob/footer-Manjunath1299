@@ -31,13 +31,13 @@
 .links{
 	display:flex;
 }
-.link-boxes a{
+/*.link-boxes a{
 	text-decoration:none;
      color:white;
 	text-align:center;
 	font-weight:lighter;
-}
-/*.link-boxes{
+}*/
+.link-boxes{
 	display:flex;
 	flex-direction:column;
 	justify-content:space-evenly;
@@ -46,9 +46,9 @@
 .link-boxes a{
 	text-decoration:none;
      color:white;
-	text-align:center;
 	font-weight:lighter;
-}*/
+}
+/*  copyright*/
 .copyright{
 	display:flex;
 	justify-content:space-between;
