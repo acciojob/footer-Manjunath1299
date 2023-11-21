@@ -25,7 +25,10 @@
 
 /*Links  */
 .link-boxes{
-	color:white
+	color:white;
+}
+.links{
+	display:flex;
 }
 .link-boxes a{
 	text-decoration:none;
